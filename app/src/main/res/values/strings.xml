@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Suplování</string>
+    <string name="menu_search_button_title">Search for a specific date</string>
+    <string name="menu_notifications_button_title">Toggle alerts for new substitutions</string>
+    <string name="menu_highlight_button_title">Highlight key words on substitution pages</string>
+    <string name="menu_browser_button_title">Open in browser</string>
+
+    <string name="menu_search_button_title_condensed">Search</string>
+    <string name="menu_notifications_button_title_condensed">Notifications</string>
+    <string name="menu_highlight_button_title_condensed">Highlighting</string>
+    <string name="menu_browser_button_title_condensed">Open</string>
+
+    <string name="day_of_the_week_monday">Monday</string>
+    <string name="day_of_the_week_tuesday">Tuesday</string>
+    <string name="day_of_the_week_wednesday">Wednesday</string>
+    <string name="day_of_the_week_thursday">Thursday</string>
+    <string name="day_of_the_week_friday">Friday</string>
+    <string name="day_of_the_week_saturday">Saturday</string>
+    <string name="day_of_the_week_sunday">Sunday</string>
+
+    <string name="highlight_dialog_hint">e.g. a class or a professor</string>
+    <string name="highlight_dialog_cancel">Cancel</string>
+    <string name="highlight_dialog_save">Save</string>
+    <string name="highlight_dialog_title">Highlighted keyword</string>
+    <string name="highlight_dialog_message">Type a key word which will be highlighted on viewed substitute pages.\nPages which have something highlighted in them will display an icon next to them in the list.\nLeave the text field empty to not highlight anything.</string>
+    <string name="highlight_dialog_button">Highlight color</string>
+
+    <string name="highlight_dialog_palette_title">Choose a color</string>
+    <string name="highlight_dialog_palette_confirm">Confirm</string>
+    <string name="highlight_dialog_palette_close">Close</string>
+
+    <string name="notifications_channel_name">New substitution page notifications</string>
+    <string name="notifications_channel_description">Displays notifications when a new substitute page is found, usually around noon on a work day.</string>
+    <string name="notifications_turned_on">Notifications turned on!</string>
+    <string name="notifications_turned_off">Notifications turned off.</string>
+    <string name="notification_new_substitution_found_title">New substitute page</string>
+    <string name="notification_new_substitution_found_message">Click here to open</string>
+
+    <string name="date_picker_title">Choose a date</string>
+    <string name="date_picker_cancel">Cancel</string>
+    <string name="date_picker_search">Search</string>
+
+    <string name="search_results_dialog_title">Search results</string>
+    <string name="search_results_dialog_button_open">Open</string>
+    <string name="search_results_dialog_button_cancel">Cancel</string>
+    <string name="search_results_dialog_no_results">No results</string>
+    <string name="search_results_dialog_result_no_date">Result with unknown date found</string>
+
+    <string name="error_no_internet">Error: no internet connection available</string>
+    <string name="error_empty_listView">Error: please check your internet connection and refresh the list</string>
+
+    <string name="toast_copied">Link copied to clipboard!</string>
+    <string name="temp_maturitas_week1_classes">1st final exam week - classes</string>
+    <string name="temp_maturitas_week1_profs">1st final exam week - professors</string>
+    <string name="temp_maturitas_week2_classes">2nd final exam week - classes</string>
+    <string name="temp_maturitas_week2_profs">2nd final exam week - professors</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F0EB54</color>
+    <color name="colorPrimaryDark">#B2AE3E</color>
+    <color name="colorAccent">#CF2027</color>
+    <color name="colorActionBarText">#000000</color>
+    <color name="colorTextGrayish">#565656</color>
+    <color name="colorListViewDividerDefault">#BBBBBB</color>
+    <color name="colorListViewDividerDark">#222222</color>
+
+    <color name="colorHighlightRed">#FF0000</color>
+    <color name="colorHighlightOrange">#FFAA00</color>
+    <color name="colorHighlightYellow">#FFFF00</color>
+    <color name="colorHighlightGreen">#55FF00</color>
+    <color name="colorHighlightCyan">#00F2FF</color>
+    <color name="colorHighlightBlue">#0088FF</color>
+    <color name="colorHighlightViolet">#9D00FF</color>
+    <color name="colorHighlightPink">#FF00E1</color>
+
+    <array name="highlightColors">
+        <item>@color/colorHighlightRed</item>
+        <item>@color/colorHighlightOrange</item>
+        <item>@color/colorHighlightYellow</item>
+        <item>@color/colorHighlightGreen</item>
+        <item>@color/colorHighlightCyan</item>
+        <item>@color/colorHighlightBlue</item>
+        <item>@color/colorHighlightViolet</item>
+        <item>@color/colorHighlightPink</item>
+    </array>
+</resources>

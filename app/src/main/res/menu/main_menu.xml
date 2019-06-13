@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/highlightButton"
+        android:icon="@drawable/ic_marker_black_24dp"
+        android:orderInCategory="1"
+        android:title="@string/menu_highlight_button_title"
+        android:titleCondensed="@string/menu_highlight_button_title_condensed"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/notificationsToggleButton"
+        android:icon="@drawable/ic_notifications_off_black_24dp"
+        android:orderInCategory="2"
+        android:title="@string/menu_notifications_button_title"
+        android:titleCondensed="@string/menu_notifications_button_title_condensed"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/searchButton"
+        android:icon="@drawable/ic_calendar_search_24dp"
+        android:orderInCategory="3"
+        android:title="@string/menu_search_button_title"
+        android:titleCondensed="@string/menu_search_button_title_condensed"
+        app:showAsAction="ifRoom|withText" />
+</menu>

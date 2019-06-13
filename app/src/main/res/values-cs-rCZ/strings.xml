@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suplování</string>
+    <string name="menu_search_button_title">Hledání suplování</string>
+    <string name="menu_notifications_button_title">Zapnutí/vypnutí upozornění na nová suplování</string>
+    <string name="menu_highlight_button_title">"Zvýraznění klíčových slov na suplování "</string>
+    <string name="menu_browser_button_title">Otevřít v prohlížeči</string>
+
+    <string name="menu_search_button_title_condensed">Vyhledávání</string>
+    <string name="menu_notifications_button_title_condensed">Upozornění</string>
+    <string name="menu_highlight_button_title_condensed">Zvýrazňování</string>
+    <string name="menu_browser_button_title_condensed">Otevřít</string>
+
+    <string name="day_of_the_week_monday">pondělí</string>
+    <string name="day_of_the_week_tuesday">úterý</string>
+    <string name="day_of_the_week_wednesday">středa</string>
+    <string name="day_of_the_week_thursday">čtvrtek</string>
+    <string name="day_of_the_week_friday">pátek</string>
+    <string name="day_of_the_week_saturday">sobota</string>
+    <string name="day_of_the_week_sunday">neděle</string>
+
+    <string name="highlight_dialog_hint">např. třída či profesor</string>
+    <string name="highlight_dialog_cancel">Zavřít</string>
+    <string name="highlight_dialog_save">Uložit</string>
+    <string name="highlight_dialog_title">Zvýrazňované slovo</string>
+    <string name="highlight_dialog_message">Zvolte slovo, jež se na stránkách suplování bude automaticky zvýrazňovat.\nSuplování obsahující toto slovo budou v seznamu označeny ikonou.\nNechejte pole prázné pro zrušení zvýrazňování.</string>
+    <string name="highlight_dialog_button">Barva zvýraznění</string>
+
+    <string name="highlight_dialog_palette_title">Zvolte barvu</string>
+    <string name="highlight_dialog_palette_confirm">Potvrdit</string>
+    <string name="highlight_dialog_palette_close">Zavřít</string>
+
+    <string name="notifications_channel_name">Upozornění na nové suplování</string>
+    <string name="notifications_channel_description">Zobrazuje upozornění na nově nalezené suplování, většinou kolem poledne v pracovní den.</string>
+    <string name="notification_new_substitution_found_title">Nové suplování</string>
+    <string name="notification_new_substitution_found_message">Kliknutím otevřete</string>
+
+    <string name="search_results_dialog_title">Výsledky suplování</string>
+    <string name="search_results_dialog_button_open">Otevřít</string>
+    <string name="search_results_dialog_button_cancel">Zavřít</string>
+    <string name="search_results_dialog_no_results">Suplování nenalezeno</string>
+    <string name="search_results_dialog_result_no_date">Nalezeno suplování s neznámým datem</string>
+
+    <string name="date_picker_title">Zvolte datum</string>
+    <string name="date_picker_cancel">Zavřít</string>
+    <string name="date_picker_search">Vyhledat</string>
+
+    <string name="error_no_internet">Chyba: Připojení k internetu není k dispozici</string>
+    <string name="error_empty_listView">Chyba: prosím zkontrolujte internetové připojení a znovu načtěte seznam</string>
+    <string name="toast_copied">Odkaz zkopírován do schránky!</string>
+    <string name="notifications_turned_on">Upozornění zapnuta!</string>
+    <string name="notifications_turned_off">Upozornění vypnuta.</string>
+    <string name="temp_maturitas_week1_classes">1. maturitní týden - třídy</string>
+    <string name="temp_maturitas_week1_profs">1. maturitní týden - profesoři</string>
+    <string name="temp_maturitas_week2_classes">2. maturitní týden - třídy</string>
+    <string name="temp_maturitas_week2_profs">2. maturitní týden - profesoři</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="MyActionBar" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyTitleTextStyle</item>
+    </style>
+
+    <style name="MyTitleTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/colorActionBarText</item>
+    </style>
+
+    <style name="WrapEverythingDialog" parent="Theme.AppCompat.Light">
+        <item name="windowMinWidthMajor">100dp</item>
+        <item name="windowMinWidthMinor">100dp</item>
+    </style>
+
+
+</resources>
