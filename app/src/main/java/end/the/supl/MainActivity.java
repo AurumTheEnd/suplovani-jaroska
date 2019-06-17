@@ -132,6 +132,17 @@ public class MainActivity extends AppCompatActivity implements KeyWordDialog.Key
 
         removeDuplicateItems();
 
+        TextView tempWeek = findViewById(R.id.tempWeek);
+        tempWeek.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.jaroska.cz/sites/default/files/Tridy_souhrn.pdf"));
+                if (intent.resolveActivity(getPackageManager()) != null) {
+                    startActivity(intent);
+                }
+            }
+        });
+
         swipeRefresh.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
